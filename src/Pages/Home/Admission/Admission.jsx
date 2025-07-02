@@ -4,7 +4,7 @@ import { AiTwotonePhone } from 'react-icons/ai'
 import { Link } from 'react-router-dom'
 import AOS from 'aos'
 import 'aos/dist/aos.css'
-
+// Admission
 const Admission = () => {
   const currentYear = new Date().getFullYear()
   useEffect(() => {
