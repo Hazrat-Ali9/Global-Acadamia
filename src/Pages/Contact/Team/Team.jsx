@@ -3,9 +3,6 @@ import 'aos/dist/aos.css'
 import React, { useEffect } from 'react'
 import { AiOutlineTeam } from 'react-icons/ai'
 import { GiForwardField } from 'react-icons/gi'
-import sayem from '../../../assets/image/sayemPic.jpg'
-// import zamirul from '../../../assets/image/zamirul2.jpg'
-import manPic1 from '../../../assets/image/man1.webp'
 
 const Team = () => {
   // Function to disable text selection
@@ -50,7 +47,7 @@ const Team = () => {
               </div>
             </div>
             <div className="text-center py-4">
-              <h1 className="text-2xl font-semibold">Zamirul Kabir</h1>
+              <h1 className="text-2xl font-semibold">Parvez</h1>
 
               <p className="text-xl font-semibold text-[#09adfe]">
                 Founder & CEO
@@ -81,7 +78,7 @@ const Team = () => {
             <div className="flex items-center justify-center ">
               <div>
                 <img
-                  src={sayem}
+                  src={rakib}
                   alt=""
                   className="bg-white w-32 h-32 rounded-full flex items-center justify-center"
                 />
