@@ -8,7 +8,7 @@ import './BscCourse.css'
 import CourseCard from '../../../components/homePage/CourseCard'
 import AOS from 'aos'
 import 'aos/dist/aos.css'
-
+// Bsc course
 const BscCourse = () => {
   // render()
   const settings = {
