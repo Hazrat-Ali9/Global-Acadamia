@@ -45,10 +45,10 @@ const InfoContact = () => {
                   Bangladesh Office
                 </p>
                 <div className="pl-6 space-y-1">
-                  <p>Ma Sufiya Mohol, 1st Floor</p>
-                  <p>Plastic Factory Road,</p>
-                  <p>Notun Vangabrai,</p>
-                  <p>Sirajgnaj ,Bangladesh</p>
+                  <p>Engr Parvez, 1st Floor</p>
+                  <p>Notun Bazar Road,</p>
+                  <p>Notuun Bazar,</p>
+                  <p>Dhaka ,Bangladesh</p>
                 </div>
               </div>
             </div>
@@ -64,7 +64,7 @@ const InfoContact = () => {
                 <div className="pl-6 space-y-1">
                   <div className="flex items-center gap-2">
                     <AiTwotonePhone size={20} className="text-[#09adfe]" />
-                    <p>+88 0179-3636735</p>
+                    <p>+88 01315090</p>
                   </div>
 
                   <div className="flex items-center gap-2">
@@ -82,7 +82,7 @@ const InfoContact = () => {
                   <div className="bg-gray-400 hover:bg-[#28589c] text-white h-8 w-8 rounded-full flex items-center justify-center">
                     <a
                       target="_blank"
-                      href="https://www.facebook.com/gobalAcademia"
+                      href="https://www.facebook.com/rowan.atkinson.336450"
                     >
                       {' '}
                       <FaFacebookF />
