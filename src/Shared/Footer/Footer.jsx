@@ -111,8 +111,8 @@ const Footer = () => {
                         <GoLocation className="" size={25} />
                       </div>
                       <div className="text-[16px] font-medium">
-                        <p>Notun Vangabrai,</p>
-                        <p>Sirajgnaj ,Bangladesh</p>
+                        <p>Notun Bazart,</p>
+                        <p>Notun Bazar ,Bangladesh</p>
                       </div>
                     </div>
                   </div>
@@ -190,7 +190,7 @@ const Footer = () => {
                             <AiTwotonePhone className="" size={25} />
                           </div>
                           <div className="text-[16px] font-medium">
-                            <p>+88 0179-3636735</p>
+                            <p>+88 013190</p>
                           </div>
                         </div>
 
@@ -205,9 +205,9 @@ const Footer = () => {
                             <GoLocation className="" size={25} />
                           </div>
                           <div className="text-[16px] font-medium">
-                            <p>Ma Sufiya Mohol,</p>
+                            <p>Engr Parvez,</p>
                             <p>1st Floor,</p>
-                            <p>Plastic Factory Road,</p>
+                            <p>Notun Bazar Road,</p>
                           </div>
                         </div>
                         {/* -------location------  */}
