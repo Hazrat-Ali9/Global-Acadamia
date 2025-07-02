@@ -19,7 +19,7 @@ const Banner = () => {
                 <AiTwotonePhone className="" size={25} />
               </div>
               <div className="text-[16px]  font-medium">
-                <p>+88 0179-3636735</p>
+                <p>+88 01315090</p>
               </div>
             </div>
           </div>
