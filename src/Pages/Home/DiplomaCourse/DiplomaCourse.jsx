@@ -8,7 +8,7 @@ import CourseCard from '../../../components/homePage/CourseCard'
 import './DiplomaCourse.css'
 import AOS from 'aos'
 import 'aos/dist/aos.css'
-
+// Diploma Course
 const DiplomaCourse = () => {
   // render()
   const settings = {
