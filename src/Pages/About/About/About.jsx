@@ -5,7 +5,7 @@ import AScholarship from '../AScholarship/AScholarship'
 import CampusTour from '../CampusTour/CampusTour'
 import TopUniversity from '../../Home/TopUniversity/TopUniversity'
 import { Helmet } from 'react-helmet-async'
-
+// about jsx
 const About = () => {
   return (
     <>
