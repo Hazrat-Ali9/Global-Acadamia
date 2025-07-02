@@ -221,8 +221,8 @@ const Footer = () => {
                             <GoLocation className="" size={25} />
                           </div>
                           <div className="text-[16px] font-medium">
-                            <p>Notun Vangabrai,</p>
-                            <p>Sirajgnaj ,Bangladesh</p>
+                            <p>Notun Bazar,</p>
+                            <p>Dhaka ,Bangladesh</p>
                           </div>
                         </div>
                       </div>
@@ -233,8 +233,7 @@ const Footer = () => {
               <div className="pt-4 pb-4 flex justify-between flex-wrap">
                 <div>
                   <p className="text-white">
-                    © Copyright {currentYear}, All Rights Reserved by Global
-                    Academia
+                    © Copyright {currentYear}, All Rights Reserved by Hazrat Ali
                   </p>
                 </div>
 
@@ -245,7 +244,7 @@ const Footer = () => {
                     <div className="bg-gray-400 hover:bg-[#28589c] text-white h-8 w-8 rounded-full flex items-center justify-center">
                       <a
                         target="_blank"
-                        href="https://www.facebook.com/gobalAcademia"
+                        href=""
                       >
                         {' '}
                         <FaFacebookF />
