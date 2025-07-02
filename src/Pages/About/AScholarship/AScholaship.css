@@ -1,0 +1,8 @@
+.studentPic {
+  background-image: url('../../../assets//image/admission1.avif');
+  height: 550px;
+  background-repeat: no-repeat;
+  width: 100% !important;
+  display: block;
+  background-size: cover;
+}

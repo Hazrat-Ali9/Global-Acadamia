@@ -1,0 +1,8 @@
+.studentPic {
+  background-image: url('../../../assets/image/student.jpg');
+  height: 450px;
+  background-repeat: no-repeat;
+  width: 100% !important;
+  /* display: block; */
+  background-size: cover;
+}

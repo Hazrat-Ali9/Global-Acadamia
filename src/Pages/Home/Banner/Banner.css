@@ -1,0 +1,19 @@
+.slide1 {
+  background-image: url('../../../assets/image/hBnner12.jpg');
+  background-repeat: no-repeat;
+  width: 100% !important;
+
+  background-size: cover;
+}
+.slide2 {
+  background-image: url('../../../assets/image/hBanner15.jpg');
+  background-repeat: no-repeat;
+  width: 100% !important;
+  background-size: cover;
+}
+.slide3 {
+  background-image: url('../../../assets/image/hBnner13.jpg');
+  background-repeat: no-repeat;
+  width: 100% !important;
+  background-size: cover;
+}

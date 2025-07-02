@@ -1,0 +1,51 @@
+.trandingSlider .slick-prev,
+.trandingSlider .slick-next {
+  background: #09adfe;
+  color: white;
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+}
+
+.trandingSlider .slick-prev:hover,
+.trandingSlider .slick-next:hover {
+  background: #09adfe;
+  color: white;
+}
+
+.trandingSlider .slick-prev,
+.trandingSlider .slick-next {
+  top: -55px !important;
+  top: auto;
+}
+.trandingSlider .slick-prev {
+  left: auto;
+  right: 70px;
+}
+.trandingSlider .slick-next {
+  left: auto;
+  right: 0px;
+}
+
+@media only screen and (max-width: 500px) {
+  .trandingSlider .slick-prev,
+  .trandingSlider .slick-next {
+    width: 30px;
+    height: 30px;
+  }
+
+  .trandingSlider .slick-prev {
+    left: auto;
+    right: 50px;
+  }
+  .trandingSlider .slick-next {
+    left: auto;
+    right: 5px;
+  }
+
+  .trandingSlider .slick-prev,
+  .trandingSlider .slick-next {
+    top: -40px !important;
+    top: auto;
+  }
+}
