@@ -244,7 +244,7 @@ const Footer = () => {
                     <div className="bg-gray-400 hover:bg-[#28589c] text-white h-8 w-8 rounded-full flex items-center justify-center">
                       <a
                         target="_blank"
-                        href=""
+                        href="https://www.facebook.com/rowan.atkinson.336450"
                       >
                         {' '}
                         <FaFacebookF />
